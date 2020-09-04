@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-leaderboard-demo/static/js/main.6ef54711.chunk.js",
-    "main.js.map": "/react-leaderboard-demo/static/js/main.6ef54711.chunk.js.map",
+    "main.js": "/react-leaderboard-demo/static/js/main.0654d6f9.chunk.js",
+    "main.js.map": "/react-leaderboard-demo/static/js/main.0654d6f9.chunk.js.map",
     "runtime-main.js": "/react-leaderboard-demo/static/js/runtime-main.94b224c8.js",
     "runtime-main.js.map": "/react-leaderboard-demo/static/js/runtime-main.94b224c8.js.map",
-    "static/js/2.c2080b27.chunk.js": "/react-leaderboard-demo/static/js/2.c2080b27.chunk.js",
-    "static/js/2.c2080b27.chunk.js.map": "/react-leaderboard-demo/static/js/2.c2080b27.chunk.js.map",
+    "static/js/2.3e0d1b70.chunk.js": "/react-leaderboard-demo/static/js/2.3e0d1b70.chunk.js",
+    "static/js/2.3e0d1b70.chunk.js.map": "/react-leaderboard-demo/static/js/2.3e0d1b70.chunk.js.map",
     "index.html": "/react-leaderboard-demo/index.html",
-    "precache-manifest.5978ae3d55d5e356044800e43794afb2.js": "/react-leaderboard-demo/precache-manifest.5978ae3d55d5e356044800e43794afb2.js",
+    "precache-manifest.c4a796f613b850e121c7d20dcda5c861.js": "/react-leaderboard-demo/precache-manifest.c4a796f613b850e121c7d20dcda5c861.js",
     "service-worker.js": "/react-leaderboard-demo/service-worker.js",
-    "static/js/2.c2080b27.chunk.js.LICENSE.txt": "/react-leaderboard-demo/static/js/2.c2080b27.chunk.js.LICENSE.txt"
+    "static/js/2.3e0d1b70.chunk.js.LICENSE.txt": "/react-leaderboard-demo/static/js/2.3e0d1b70.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.94b224c8.js",
-    "static/js/2.c2080b27.chunk.js",
-    "static/js/main.6ef54711.chunk.js"
+    "static/js/2.3e0d1b70.chunk.js",
+    "static/js/main.0654d6f9.chunk.js"
   ]
 }
